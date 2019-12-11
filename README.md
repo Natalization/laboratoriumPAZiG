@@ -1,0 +1,2 @@
+# laboratoriumPAZiG
+laboratorium PAZiG
