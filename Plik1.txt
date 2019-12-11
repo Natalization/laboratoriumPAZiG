@@ -1,1 +1,3 @@
 Zadanie 7: doda³am losowy ci¹g znaków
+
+zad. 20 zmieniam plik 1
